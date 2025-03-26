@@ -15,6 +15,7 @@ npm install -g cowsay
 sudo apt install lolcat
 ```
 ## Usage
+
 1. To display quotes 
 ```
 fortune /path/to/quotes | cowsay -r| lolcat
@@ -47,3 +48,4 @@ strfile -c % quotes quotes.dat
 
 ### Credits
 1. Inspiration from [@ThorodanBrom](https://github.com/ThorodanBrom) and [@shreelakshmijoshi](https://github.com/shreelakshmijoshi)
+2. Github Co-pilot
