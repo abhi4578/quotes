@@ -44,3 +44,6 @@ strfile -c % quotes quotes.dat
 <p>
 <img src="./sample-fortune-quote.png">
 </p>
+
+### Credits
+1. Inspiration from [@ThorodanBrom](https://github.com/ThorodanBrom) and [@shreelakshmijoshi](https://github.com/shreelakshmijoshi)
